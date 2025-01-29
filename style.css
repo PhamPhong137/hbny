@@ -124,3 +124,11 @@ video {
         text-shadow: 0 0 20px #ffda79, 0 0 30px #ffba00, 0 0 40px #ff9a00, 0 0 50px #ff8a00;
     }
 }
+
+
+@media screen and (max-width: 768px) {
+    #hbny {
+        font-size: 3rem;
+        margin-top: 50%;
+    }
+}
